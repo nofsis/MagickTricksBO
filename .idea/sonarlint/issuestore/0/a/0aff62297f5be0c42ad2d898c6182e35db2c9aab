@@ -1,0 +1,32 @@
+
+y
+java:S1450"]Remove the "firebaseThread" field and declare it as a local variable in the relevant methods.(•†8‚Âıî¨.
+~
+java:S1104"\Make callBackReturned a static final constant or non-public and provide accessors if needed.(¸†ùÿÿÿÿ8‚Âıî¨.
+
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Ş‰8‚Âıî¨.
+
+java:S1186e"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Ş‰8‚Âıî¨.
+J	java:S1085")Either remove or fill this block of code.(ÇĞå üÿÿÿÿ8û§…ï¨.
+d
+java:S1192""GDefine a constant instead of duplicating this literal "videos" 4 times.(¦ìãÓ8¸¼‰ï¨.
+O
+java:S1199V"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8‚Âıî¨.
+J	java:S108")Either remove or fill this block of code.(ÇĞå üÿÿÿÿ8‚Âıî¨.
+X
+java:S1444"6Make this "public static callBackReturned" field final(¸†ùÿÿÿÿ8‚Âıî¨.
+S
+java:S26963"6Make the enclosing method "static" or remove this set.(’í÷±8û§…ï¨.
+S
+java:S2696`"6Make the enclosing method "static" or remove this set.(µÈõ§8‚Âıî¨.
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¥¿àÒúÿÿÿÿ8‚Âıî¨.
+S
+java:S2696-"6Make the enclosing method "static" or remove this set.(§‰Ú…8û§…ï¨.
+J	java:S1080")Either remove or fill this block of code.(øûãÅøÿÿÿÿ8û§…ï¨.
+P
+java:S1444"3Make this "public static videoReturned" field final(øúÀ¸8ñş‡ï¨.
+v
+java:S1104"YMake videoReturned a static final constant or non-public and provide accessors if needed.(øúÀ¸8ñş‡ï¨.
+S
+java:S2696I"6Make the enclosing method "static" or remove this set.(õÕ˜ä8‚Âıî¨.
